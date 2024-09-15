@@ -1,1 +1,2 @@
-upload
+homework 1
+https://github.com/Khinka1i/Angular-work-1/tree/main/homework1
